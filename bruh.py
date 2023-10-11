@@ -27,6 +27,7 @@ def mode1():
   while True:
    time.sleep(0.01)
    print("bruh")
+   time.sleep(0.01)
    print("----")
    bruh=bruh+1
    bruh2=bruh2+1
@@ -55,6 +56,7 @@ def mode2():
   while True:
    time.sleep(0.01)
    print("bruh")
+   time.sleep(0.01)
    print("----")
    bruh=bruh+1
    bruh2=bruh2+1
