@@ -1,4 +1,3 @@
-# Bruh-Text-Generator-2D
-I struggled making this and it is completly useless.
-Flashes "Bruh" on the screen, with a few different options.
-I got the idea from a time when I was so bored, I would randomly blurt out 'Bruh' to confuse and annoy people around me.
+# Bruh-Text-Generator-2D (Lightweight)
+Easier to run for users with low end systems.
+Requires only a Nvidia Geforce GTX 1080 or equivilent, instead of RTX 4080 or equivilent.
